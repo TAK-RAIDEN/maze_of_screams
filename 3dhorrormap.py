@@ -561,7 +561,7 @@ def draw_minimap():
 
     for y, row in enumerate(MAP):
         for x, t in enumerate(row):
-            if t == "3": c = 8
+            if t == "3": c = 10
             elif t == "4": c = 10
             elif t == "2": c = 12
             elif t in ("0", "5", "6"): c = 6
@@ -991,6 +991,7 @@ pyxel.colors[6]  = 0x909090
 pyxel.colors[5]  = 0x666666
 pyxel.colors[4]  = 0x333333
 pyxel.colors[11] = 0x00FF00
+
 
 
 pyxel.run(update, draw)
