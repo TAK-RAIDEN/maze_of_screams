@@ -4,7 +4,7 @@
 
 ブラウザで遊べます👇
 
-➡ [https://tak-raiden.github.io/pyxel_breakout_10stages/]
+➡ [https://tak-raiden.github.io/maze_of_screams/]
 ## 操作方法
 - タイトル画面：Enterキーでゲームスタート。
 - カーソルの上下左右またはWASDで移動。
