@@ -1,4 +1,4 @@
-# Horror Maze Escape Game
+# Maze of Screams - Horror Maze Escape Game
 
 迷い込んだ廃病院から脱出せよ！途中で幽霊に捕まるな！
 
